@@ -1,0 +1,12 @@
+# Chapter 5: Regularization
+  - try to get more data
+	- data augmentation (half-fake data, agressive augmentation)
+	- creative augmentation (fake data, GANs, domain randomization, simulation)
+	- pretraining
+	- smaller input dimensionality (remove features that may contain spurious signals)
+	- decrease batch size 
+	- dropout
+	- weight decay
+	- early stopping
+	- larger model +early stopping ?
+	- visualize the networks first layer weights (if noisy, something could be off)
