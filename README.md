@@ -6,6 +6,7 @@ Workflows, Tips, Tricks, and Techniques for Training Deep Neural Networks
 
 The first draft is inspired by Andrej Karpathy's blog post [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/), but there is much more to cover. The main topics I want to dive into are:
   - DL project management
+  - Best practices to write DL code
   - Optimized training procedures
   - State-of-the-Art Deep Learning practices
   - MLOps
